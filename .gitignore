@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment and sensitive data
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Data and models
+*.csv
+*.joblib
+*.pkl
+models/
+logs/
+data/
+
+# IDE / VS Code
+.vscode/
+.idea/
+*.swp
